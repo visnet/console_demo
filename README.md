@@ -1,6 +1,6 @@
 # console_demo
 
-This project we can take as a refernce for developing c3 application and working with classes and objects following oops features.
+This project we can take as a refernce for developing console application and working with classes and objects following oops features.
 
 for running this project we require
 VS studio 2019 or later
